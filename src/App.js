@@ -17,6 +17,9 @@ function App() {
         >
           Learn React
         </a>
+        <div>
+          //idea for a floating navbar that stays pinned
+        </div>
       </header>
     </div>
   );
