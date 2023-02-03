@@ -19,6 +19,9 @@ function App() {
         </a>
         <div>
           //idea for a floating navbar that stays pinned
+          //navbar
+          //posts
+          //social links
         </div>
       </header>
     </div>
